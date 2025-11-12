@@ -1,0 +1,8 @@
+url del repositorio original de GitHub del grupo:
+https://github.com/imartor99/ejercicio-web
+
+despliegue s3 AWS:
+http://cicd.nachomt.work.gd/
+
+despliegue de la documentación en pages:
+https://imartor99.github.io/ejercicio-web/
